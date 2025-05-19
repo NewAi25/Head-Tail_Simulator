@@ -1,7 +1,10 @@
 # 🧪 Head-Tail_Simulator_Biased_vs_Fair_Coin_Flip_Analysis
 
 **Head-Tail Simulator** is a Python GUI application designed to simulate and visualize the statistical outcomes of flipping both fair and biased coins. It allows users to compare the distributions of outcomes, analyze the probability of getting a specific number of tails, perform a chi-square goodness-of-fit test, and export results — all from a user-friendly interface.
-
+![image alt](https://github.com/NewAi25/Head-Tail_Simulator/blob/50cd3c3d02da1b879a2b614b29d4387deb4216ea/Capture2.PNG)
+![image alt](https://github.com/NewAi25/Head-Tail_Simulator/blob/50cd3c3d02da1b879a2b614b29d4387deb4216ea/Capture.PNG)
+![image alt](https://github.com/NewAi25/Head-Tail_Simulator/blob/50cd3c3d02da1b879a2b614b29d4387deb4216ea/fair%201.PNG)
+![image alt](https://github.com/NewAi25/Head-Tail_Simulator/blob/50cd3c3d02da1b879a2b614b29d4387deb4216ea/fair.PNG)
 ---
 
 ## 🎯 Purpose
