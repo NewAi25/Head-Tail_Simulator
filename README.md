@@ -40,15 +40,9 @@ cd Head-Tail_Simulator_Biased_vs_Fair_Coin_Flip_Analysis
 
 2. Install Dependencies
 Make sure Python 3.6+ is installed, then run:
-
-bash
-Copy
-Edit
+Run the command below
 pip install matplotlib scipy
-3. Run the Application
-bash
-Copy
-Edit
+Run the Application
 python Head-tail.py
 🖥️ Interface Overview
 You’ll be asked to enter:
